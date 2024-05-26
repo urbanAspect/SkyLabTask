@@ -1,8 +1,0 @@
-{
-    "files.associations": {
-        "queue.h": "c",
-        "freertos.h": "c",
-        "gnss_simulator.h": "c",
-        "stream_buffer.h": "c"
-    }
-}
